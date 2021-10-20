@@ -1,4 +1,5 @@
 {
+  "capture_base_sai": "0918203812381029902123",
   "name": "Authentic Chain Data Containers",
   "abbrv": ACDC",
   "description": "ACDC is a transient storage component that contains a bundled payload consisting of data claims, key event provenance, schema objects, and exchange rules in a cryptographically verifiable format.",
