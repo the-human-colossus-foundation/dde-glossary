@@ -1,0 +1,8 @@
+{
+  "name": "Authentic Chain Data Containers",
+  "abbrv": ACDC",
+  "description": "ACDC is a transient storage component that contains a bundled payload consisting of data claims, key event provenance, schema objects, and exchange rules in a cryptographically verifiable format.",
+  "authentic_timestamp": { "authority": "did:123456", "timestamp": 1634720200 },
+  "signature": "xyz",
+  "author": "did:190u209190283102",
+}
