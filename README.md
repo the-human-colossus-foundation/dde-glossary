@@ -78,9 +78,10 @@ A [Self-Certifying Identifier](https://weboftrust.github.io/ietf-keri/draft-ssmi
 
 A [SAID](https://weboftrust.github.io/ietf-said/draft-ssmith-said.html) (Self-Addressing IDentifier) is a special type of content-addressable identifier based on encoded cryptographic digest that is self-referential.
 
-## TEL
-Transaction Event Log
+## Transaction Event Log (TEL)
 
-## Master Mouse Model
+The Transaction Event Log is a set of transactions that provide cryptographic proof of the registry state. 
+
+## Master Mouse Model (MMM)
 
 The Master Mouse Model is a economical model which separates data collection from data enrichment providers, controled by Decentralized Governance Authority
