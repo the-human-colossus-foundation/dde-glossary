@@ -1,4 +1,4 @@
-# Decentralized Data Economy Glossary
+# Dynamic Data Economy Glossary
 
 ## Authentic Chained Data Containers (ACDC)
 
